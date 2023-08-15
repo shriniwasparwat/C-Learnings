@@ -10,7 +10,7 @@ int main()
         // printf("inside for loop");
         char c = str[i];
         printf("%c", c);
-        // printf("after for loop");
+        printf("after for loop");
     }
 
     return 0;
